@@ -34,4 +34,4 @@ My name is Vladimir. I'm frontend developer.
 
 ### :fire: My Stats : 😎
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belichvladimir)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belichvladimir)](https://github.com/anuraghazra/github-readme-stats)
