@@ -1,4 +1,3 @@
-My name is Vladimir. I'm frontend developer.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -32,6 +31,4 @@ My name is Vladimir. I'm frontend developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" width="50" height="50"/>
 </div>
 
-### :fire: My Stats : 😎
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belichvladimir)](https://github.com/anuraghazra/github-readme-stats)
